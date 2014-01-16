@@ -1,9 +1,9 @@
-xcodeplugins
+Xcode Plugins
 ============
 
-github上的Xcode插件集合
+收集github上的Xcode插件集合
 
-###CodePilot3
+####CodePilot3
 https://github.com/macoscope/CodePilot
 
 
